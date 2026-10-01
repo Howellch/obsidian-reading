@@ -1,7 +1,7 @@
 {
   "owner": "obsidian-github-reading-export/v1",
   "sourceBranch": "base_v001",
-  "sourceCommit": "d09f1f00cbc1f5e732b1ccd51b92f1ae90f7c0a6",
+  "sourceCommit": "b796932c3fdf6185bc4df0bb3ac0d87defb9f30f",
   "targetBranch": "read/base_v001",
   "targetRepository": "Howellch/obsidian-reading",
   "sourceWorktreeDirty": false,
