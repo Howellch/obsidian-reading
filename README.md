@@ -1,6 +1,6 @@
 # Obsidian 筆記閱讀版
 
-此分支由 `base_v001` 的 commit `1c205e38bdafe003c2024b0c998ec8d9bb595560` 自動產生。
+此分支由 `base_v001` 的 commit `c4612b636c18d31fe13c22e1716c3c33365c6c48` 自動產生。
 
 請在來源分支使用 Obsidian 編輯；閱讀版的修改會在下次產生時被取代，不要合併回來源分支。
 

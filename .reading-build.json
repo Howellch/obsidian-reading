@@ -1,282 +1,396 @@
 {
   "owner": "obsidian-github-reading-export/v1",
   "sourceBranch": "base_v001",
-  "sourceCommit": "1c205e38bdafe003c2024b0c998ec8d9bb595560",
+  "sourceCommit": "c4612b636c18d31fe13c22e1716c3c33365c6c48",
   "targetBranch": "read/base_v001",
+  "cacheVersion": 1,
+  "inputFingerprint": "2943be684db47440512ee22383460c73124ef0636928d3576ab429b74d5ffb9c",
+  "images": {
+    "reused": 0,
+    "rendered": 54
+  },
   "targetRepository": "Howellch/obsidian-reading",
   "sourceWorktreeDirty": false,
+  "convertedEmbeds": 54,
+  "warnings": [],
   "drawings": [
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/summary/01_整體功能關係.md",
       "fragment": "^frame=94ca31f8cbad",
-      "asset": "content/_reading_assets/39558bca3a189b25a14b0c41.png"
+      "asset": "content/_reading_assets/39558bca3a189b25a14b0c41.png",
+      "fingerprint": "76602f651a6f91b659484a91de9e1ab466815390a3ae910a0626daa352c62fc4",
+      "imageHash": "4fd42087bf13d3d622b5435d9ddbee0d6c8245fe7bf73ca7bb22f329e9b44653"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/summary/02_相線檢查原理與取樣.md",
       "fragment": "^frame=aace26d19af3",
-      "asset": "content/_reading_assets/61374611be387e1dffbe7eb6.png"
+      "asset": "content/_reading_assets/61374611be387e1dffbe7eb6.png",
+      "fingerprint": "224cd0eeab44cccbe4154bdb34f711a84c496bbd28377543fd36a885ff4fc75f",
+      "imageHash": "a83234bcf94cfea4acac2cf8c880101ff4f4a773fae81ecd043127af9c9424ba"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/summary/03_相線檢查實測結果.md",
       "fragment": "^frame=26a30cea900c",
-      "asset": "content/_reading_assets/5c6135e97185b8d77b7be879.png"
+      "asset": "content/_reading_assets/5c6135e97185b8d77b7be879.png",
+      "fingerprint": "e0ff2c35ca0bc961b9d29bfc804aad49e258d2a26dca51fd802dd2fe61f51d8e",
+      "imageHash": "b10035ea7d3761cdd811707a88d4de067bfdeee55ee00b11162dc493cf4bc1be"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/summary/04_RL量測模型.md",
       "fragment": "^frame=7ff269421559",
-      "asset": "content/_reading_assets/cd4473f1b87a89fe13a08034.png"
+      "asset": "content/_reading_assets/cd4473f1b87a89fe13a08034.png",
+      "fingerprint": "a21dc67dca302cab73a21fca5ea1d1aaebd937de3be97477912856de0e55565b",
+      "imageHash": "65ad471856add3d28d1d62e15f7d7566bd0e6b35dd5b7e5004528e3bf15f3b45"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/summary/05_RL脈衝與時間窗.md",
       "fragment": "^frame=dbb0a3ca2c1e",
-      "asset": "content/_reading_assets/33bf203388d66ef6b35ec854.png"
+      "asset": "content/_reading_assets/33bf203388d66ef6b35ec854.png",
+      "fingerprint": "ea4612ae1e474c4602925009d8a1482b767ee50f3d903f8605f4c85679472cd7",
+      "imageHash": "f8f702afaac2265c6d7e530c81ada41317c1ca7ab73309d230d21a4b7ee250d4"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/summary/06_RL結果與驗證限制.md",
       "fragment": "^frame=3c1fd61ef388",
-      "asset": "content/_reading_assets/3d6b7d5c044447e5366543e8.png"
+      "asset": "content/_reading_assets/3d6b7d5c044447e5366543e8.png",
+      "fingerprint": "dc6353f511064dc041466b990d1b8d4a9a44bc51452ac41e38a1951350c08ae9",
+      "imageHash": "a751dbc410a4a9df7b6ca8ba4c8ba8043e63a5ece148bda33d3d2bebcd777b1b"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/summary/07_極對數相序辨識方式.md",
       "fragment": "^frame=4c320f8d9d4e",
-      "asset": "content/_reading_assets/442f7fb36e11eb93cacab72f.png"
+      "asset": "content/_reading_assets/442f7fb36e11eb93cacab72f.png",
+      "fingerprint": "9418375a9875ce02c27c303a3c3a60e5b7b0cbcea2393123d4bb2f4287bdacd9",
+      "imageHash": "e1d2111a2f07fd7c1a79ad6f95099902022d2e51c290341e92b58288fd94223a"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/summary/08_四段結果與參數套用.md",
       "fragment": "^frame=44034ec78c2b",
-      "asset": "content/_reading_assets/42aa8d7dc73fc568f96bb179.png"
+      "asset": "content/_reading_assets/42aa8d7dc73fc568f96bb179.png",
+      "fingerprint": "3c035e0cd489aedf4333b42904f6909cda9ef56fbf072a0dbb5be3ba29879086",
+      "imageHash": "0ce7c985315fec0c5bab5578e2883d1018b8bba43057460af359f7806229735a"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/summary/09_換相偏移角度基準.md",
       "fragment": "^frame=4c0016c36dfb",
-      "asset": "content/_reading_assets/cc5bcbd37885d5af6e04114e.png"
+      "asset": "content/_reading_assets/cc5bcbd37885d5af6e04114e.png",
+      "fingerprint": "7061857eeb208a9780deed60d8c3e56dd28158f1bec85760359c368f8eb10388",
+      "imageHash": "dd8868fc99b5ba59b72feaeadc404ecb1c70364ba22a166a5490c0486593fce9"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/summary/10_固定磁場流程與取角.md",
       "fragment": "^frame=c0f2ed14d04a",
-      "asset": "content/_reading_assets/281e494d80c430d16f797949.png"
+      "asset": "content/_reading_assets/281e494d80c430d16f797949.png",
+      "fingerprint": "39811d5b1409326093ec375a8612b94717cea2a3398cab268f1a9605ab2b001c",
+      "imageHash": "9fae70460f8e6b11ddacf92a1fa7dacdf46ac5eb9737c9c7ce1d4b414adf9660"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/summary/11_偏移實測與保存狀態.md",
       "fragment": "^frame=65a88fd4826e",
-      "asset": "content/_reading_assets/1d278a3b2e4ddcbeb39cb63e.png"
+      "asset": "content/_reading_assets/1d278a3b2e4ddcbeb39cb63e.png",
+      "fingerprint": "1a6fca38229d0bc2fb81ca45e1e234ce82a5d1d10670440f2a40222ad371c77f",
+      "imageHash": "c7686ee8c6c5a0ad6ec0307cd5a3e498aed41e9c9ee12de0dddba9416d2b1856"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/01_1_1_導通檢查的範圍.md",
       "fragment": "^frame=5845040d03b9",
-      "asset": "content/_reading_assets/62b2423ac67688a484f9483a.png"
+      "asset": "content/_reading_assets/62b2423ac67688a484f9483a.png",
+      "fingerprint": "f31389879d052cce2a77500b1c3faa67ab49988d433081877a13e109046dd890",
+      "imageHash": "479744acd2e48afe04a04a16fa7d06ef2b5a543de0f5c54be2ef0a7ae93eca6f"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/01_2_1_電流回路.md",
       "fragment": "^frame=MnsXnkys",
-      "asset": "content/_reading_assets/946accb42a0e561b31b8b6f6.png"
+      "asset": "content/_reading_assets/946accb42a0e561b31b8b6f6.png",
+      "fingerprint": "903ba0e9dbf1fe497f4cb5cad88ba63a04693787a1f8ce8e826eeb3ec6c15855",
+      "imageHash": "be708c05d5f5a30a72e45290ec6785eb6fd087c80ae7abd34c6366695eced054"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/01_2_2_六條件與相反應.md",
       "fragment": "^frame=DKK2vzhj",
-      "asset": "content/_reading_assets/fbc1e054db62d6d67ea9babc.png"
+      "asset": "content/_reading_assets/fbc1e054db62d6d67ea9babc.png",
+      "fingerprint": "d5a3ccf99f030f76a81d6cf9c95cf4f6d885bf09becf01dba5aa5f204d49c5f9",
+      "imageHash": "acfc331b70042044b825757ff7c0fc7c4f1ffa256d65deeb698b12c29bf71769"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/01_3_1_逐相激勵與電流消退.md",
       "fragment": "^frame=e89b503d8051",
-      "asset": "content/_reading_assets/04bf9a13eefc0636afe8d696.png"
+      "asset": "content/_reading_assets/04bf9a13eefc0636afe8d696.png",
+      "fingerprint": "6737f9af2cc0eba1f12405adb8f4688a23e028004c789595e43834fd05d3d4c5",
+      "imageHash": "e988f02f581a0d6a7617a8bc30228c9fbd6524510058ee2deed06414d2c61d69"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/01_3_2_脈衝尾端取樣.md",
       "fragment": "^frame=xrNkGI28",
-      "asset": "content/_reading_assets/772145d3b36d436984fd31ce.png"
+      "asset": "content/_reading_assets/772145d3b36d436984fd31ce.png",
+      "fingerprint": "48620942aef42a2a3b56dfe79b646c752cbae661ff12ae86d0b910f10a924a01",
+      "imageHash": "0b50d50f1a078e653cfa30fefeb2b4ad0ef12cc8b1ce5b3ede68dfb01ba9ad57"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/01_3_3_雜訊與判定門檻.md",
       "fragment": "^frame=pbttyNBP",
-      "asset": "content/_reading_assets/32a37cc559036a67d3ad977b.png"
+      "asset": "content/_reading_assets/32a37cc559036a67d3ad977b.png",
+      "fingerprint": "df986b5d8e5b71f022fec772c48148ea066d5b9dee81478bf9b14141339da3a1",
+      "imageHash": "6fff89755bc8256a4a9cdc30f19a157fbf04b728011d74f430f0be3204ee01ec"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/01_4_1_正常接線與測試限制.md",
       "fragment": "^frame=404cd449f477",
-      "asset": "content/_reading_assets/80d97947180f8f3017c25171.png"
+      "asset": "content/_reading_assets/80d97947180f8f3017c25171.png",
+      "fingerprint": "bdddb18483b029460bacb93cba56ee8d2d3268850d705ba91bb741ac617b934e",
+      "imageHash": "612cd80b4f98e857d7d79faffe9a17f94b3856396b257a98f26e1811e3a89070"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/01_4_2_各相正反向反應.md",
       "fragment": "^frame=2000fe013959",
-      "asset": "content/_reading_assets/0e9e7559e2c392b611b2d6bb.png"
+      "asset": "content/_reading_assets/0e9e7559e2c392b611b2d6bb.png",
+      "fingerprint": "c60ba0caf2e38dc9fc538a3667a3aba34aa2661236a22cd2d3382358b2e7fddc",
+      "imageHash": "f8346b28059b3ce6f853ce9b924606678ff7570a8671e954cf897ebe751d5136"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/01_4_3_三相正反向電流.md",
       "fragment": "^frame=7ispWoTq",
-      "asset": "content/_reading_assets/11b0ca9216a49466283e4e41.png"
+      "asset": "content/_reading_assets/11b0ca9216a49466283e4e41.png",
+      "fingerprint": "8572bed80e0c3237c13c350b390e4c3bac0baffbb8a7d2ec35403c5b9cd78092",
+      "imageHash": "50930a9c83e418b53f9cc425662607315c688ab57a2f88054dfce0401cd7936c"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/02_1_1_從回路檢查到電氣辨識.md",
       "fragment": "^frame=df3dc707e6a6",
-      "asset": "content/_reading_assets/68d60c9caefe767fb6102d9d.png"
+      "asset": "content/_reading_assets/68d60c9caefe767fb6102d9d.png",
+      "fingerprint": "b93af65aa75f58359f4a1fd4d2e74c52bf2947bf275aa6d086fad6ea0d9c7b51",
+      "imageHash": "2e246632e3969a6da5b66224118f0b6d7e6c77eaefc4a788a246711853d5ce04"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/02_2_1_電壓組成與電流斜率.md",
       "fragment": "^frame=t08kV4wi",
-      "asset": "content/_reading_assets/bd703143c655712d95740548.png"
+      "asset": "content/_reading_assets/bd703143c655712d95740548.png",
+      "fingerprint": "a1a2ac4bac51caa7141c6dce48697cc4fc0c216a919f33e88bcc26832974d6d4",
+      "imageHash": "fb24a43bd560ac8861e0791f853e033a892e6c8b56ca5f8df4f4c559343f18ac"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/02_2_2_多點估算與殘差.md",
       "fragment": "^frame=9WsX7i71",
-      "asset": "content/_reading_assets/45dbe490c368d11f12e2569e.png"
+      "asset": "content/_reading_assets/45dbe490c368d11f12e2569e.png",
+      "fingerprint": "58e5d802f7dc722b2acecb711e994a76a9007bb25a291c75c78e87bce89dc41a",
+      "imageHash": "901dbea78f750d7d8f856a9c5184731202840399eed5e96ee377c0c71e5bd43b"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/02_3_1_正零反零測試電壓.md",
       "fragment": "^frame=7S7XLTAq",
-      "asset": "content/_reading_assets/a3415a301878066aeb8ecaa7.png"
+      "asset": "content/_reading_assets/a3415a301878066aeb8ecaa7.png",
+      "fingerprint": "8729387cf6073b93ae2ac34f576bf5bc2853eb6441db28c37e7590f09d2562fe",
+      "imageHash": "95665f195cc5871b0ed26499614e35bac2732fc3e441f2ad3759838e8fe71033"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/02_3_2_差動電壓與電流..md",
       "fragment": "^frame=C84u67G2",
-      "asset": "content/_reading_assets/738ea39188062addac53948e.png"
+      "asset": "content/_reading_assets/738ea39188062addac53948e.png",
+      "fingerprint": "a5bc15265d6b8ceaffbacb4a0bcd5dfa7b8145cbaf0ec58f6266a83dc63c1bae",
+      "imageHash": "18a6113e3af255d4cb56c23c2068e074ec597c550c78abd892b8986d5b879bd7"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/02_3_3_有效窗口與變化率.md",
       "fragment": "^frame=KVmZfSu9",
-      "asset": "content/_reading_assets/c6c55bce0b3850ae59d3c14e.png"
+      "asset": "content/_reading_assets/c6c55bce0b3850ae59d3c14e.png",
+      "fingerprint": "fac252cf897da2efa34e0517e3dfd4cd98bfae58063cfd74f953a0d96fcd5e4e",
+      "imageHash": "5525e2dab325d750715c6b2214736b54bd30ccddc24d22801b1dd22c80949c6e"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/02_3_5_線間與單相範圍.md",
       "fragment": "^frame=dSZkwpnD",
-      "asset": "content/_reading_assets/02eb6b3a014c1722387b8385.png"
+      "asset": "content/_reading_assets/02eb6b3a014c1722387b8385.png",
+      "fingerprint": "eb698f5d4b282c114bf44e4208d184e3192e8433e85c665d8961357c6f47a8c9",
+      "imageHash": "6b2838346ebfe0a7087b1658f2d2e69810ba009aa9c29ef876425d0567745fe5"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/02_4_1_資料時間與比較基準.md",
       "fragment": "^frame=8190e52f8af6",
-      "asset": "content/_reading_assets/5f63d13cfbea000c84e6e6ca.png"
+      "asset": "content/_reading_assets/5f63d13cfbea000c84e6e6ca.png",
+      "fingerprint": "1144a4f5bf79ba0b7676a9e3fcdd5895c0e729bfd75c76075218aceaa0e90fd5",
+      "imageHash": "1ec1152982e5ef1b9122fdcff4d4c9300681fafd8033a9e2d7044c2b86692bcf"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/02_4_2_R_比較.md",
       "fragment": "^frame=sebzfd7o",
-      "asset": "content/_reading_assets/3dfc20a02e2c2dfeaa5651d0.png"
+      "asset": "content/_reading_assets/3dfc20a02e2c2dfeaa5651d0.png",
+      "fingerprint": "5c7d798a52218e1c5ddc0fe4be890ef83031d7a37ae91928701096f97f8b00c8",
+      "imageHash": "72388d77fc2d3e16d584b586403fa2b3b5b9f291f1334edd3f80cd148255e253"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/02_4_3_L_比較.md",
       "fragment": "^frame=Ols0lYNA",
-      "asset": "content/_reading_assets/014068a9b3e36ab56222fbae.png"
+      "asset": "content/_reading_assets/014068a9b3e36ab56222fbae.png",
+      "fingerprint": "4446bae735b5219016560927e1e8d264aead29a6b27ebf86df2a9e7193f3b0ff",
+      "imageHash": "873d53e481f4afb856e69b0bb40453e4e268fb8e6b66aa0ad9398e0c2b75307b"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/02_4_4_正負電流等效偏移.md",
       "fragment": "^frame=jzXrC5SL",
-      "asset": "content/_reading_assets/1f2278ecc88c1496a54ede18.png"
+      "asset": "content/_reading_assets/1f2278ecc88c1496a54ede18.png",
+      "fingerprint": "4f44e353fe042bdfe5f2bdd94536669a5a08c18b8f9e17547d00eecf1fca1ac5",
+      "imageHash": "b9f5a05c7456dccb892e7ba9c84df0b6e7697c52886322e47560c0f0a1d5775f"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/02_4_5_小電流跨度與電阻敏感度.md",
       "fragment": "^frame=qFsBNYdn",
-      "asset": "content/_reading_assets/550a549d0202dc105da3c48a.png"
+      "asset": "content/_reading_assets/550a549d0202dc105da3c48a.png",
+      "fingerprint": "4c25186cfe96c9c080e5561613dd5d1645f46d6b386e69569ba604ea2ce964b1",
+      "imageHash": "afaec45bc39f278e95dd2142b84f300b360d8e4821de9e0f92289c9b1dbca3bf"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/02_5_2_先驗證R再估.md",
       "fragment": "^frame=gFl2bnqT",
-      "asset": "content/_reading_assets/115fbf2b87c505e9dff4d1fa.png"
+      "asset": "content/_reading_assets/115fbf2b87c505e9dff4d1fa.png",
+      "fingerprint": "83ed1e2407cb565111cb31e2a4b7415f19a3afc7a3243c25f3bac5746e95e6cf",
+      "imageHash": "fab92f7e9d97d1a9f1d4e303b75e905118a86b74bf57823c6f14d5b82421e136"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/03_1_1_三相與五極對.md",
       "fragment": "^frame=7c4e77e6c11e",
-      "asset": "content/_reading_assets/b7dd013bc21f1b6d9ef24ecc.png"
+      "asset": "content/_reading_assets/b7dd013bc21f1b6d9ef24ecc.png",
+      "fingerprint": "20ac21d8d2dcd16fc086de60a0ea3af54a7ed851421f0155757e7dcae19720b2",
+      "imageHash": "e2c7a39bbb3ccfd6992506ff0bbe2f2506302a988b514b38a710ea810a4bb9b5"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/03_2_1_旋轉磁場與角度跟隨.md",
       "fragment": "^frame=e5a1be94569d",
-      "asset": "content/_reading_assets/9b3ff2c8a00f35f516bf1b66.png"
+      "asset": "content/_reading_assets/9b3ff2c8a00f35f516bf1b66.png",
+      "fingerprint": "8ecd63dea9077508842be4fa5f2ef59fc9455a75136046d73eb78a6f0d7e4625",
+      "imageHash": "baa6b3556c8a6811a6e8a6a755913097da155b1d412be875510c8bf34299693a"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/03_2_2_極對數與斜率.md",
       "fragment": "^frame=9M9fP2Az",
-      "asset": "content/_reading_assets/2695ef55c8a7cdaadecd212a.png"
+      "asset": "content/_reading_assets/2695ef55c8a7cdaadecd212a.png",
+      "fingerprint": "7439f38c84bcc6ca1a14cd6d1d69d80aeb75064238d02d06a1584d63f8ab8883",
+      "imageHash": "58cb268f96ce3e53b121797b6cbf7b209840faf212c99d97e7fa414cf927d2c0"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/03_2_3_同向反向與斜率.md",
       "fragment": "^frame=PxbmqiaY",
-      "asset": "content/_reading_assets/f279b87fae62fb1fd099d0b5.png"
+      "asset": "content/_reading_assets/f279b87fae62fb1fd099d0b5.png",
+      "fingerprint": "5b5b071039e2b4ab41231c899d4baec7e7485544778ae5057098a3b9f383bb65",
+      "imageHash": "25dfe9f0523091ed9686eee83632046e6686a5b0b5deb97b4884f121832472b6"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/03_3_1_四段旋轉測試.md",
       "fragment": "^frame=KvZqMQ2i",
-      "asset": "content/_reading_assets/5b3a6c35e67f14b2b9695d50.png"
+      "asset": "content/_reading_assets/5b3a6c35e67f14b2b9695d50.png",
+      "fingerprint": "57e197e300196a7b5e4c36ec64cb885e95f4f516ac2973fda5b1c47bcdb9186c",
+      "imageHash": "9d05875e50037d17b763ce9f9f06f97cbdafec83e245457635999415f2f19e2c"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/03_3_2_跨圈展開與局部跟隨.md",
       "fragment": "^frame=CljLQaPN",
-      "asset": "content/_reading_assets/3200cb71fc31c88ac4ff2497.png"
+      "asset": "content/_reading_assets/3200cb71fc31c88ac4ff2497.png",
+      "fingerprint": "39d9be26b38e357dc10d6333cee52aba1164049656ead24f63d1e22630ded6e0",
+      "imageHash": "7f1944d2f6973eb309646eb7c374b37a7cb9804749e298a81b53ab8d4d6f77e5"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/03_3_3_週期波動與品質檢查.md",
       "fragment": "^frame=4a1a4ea20c60",
-      "asset": "content/_reading_assets/60bcfaad0f6e70524ddbadfa.png"
+      "asset": "content/_reading_assets/60bcfaad0f6e70524ddbadfa.png",
+      "fingerprint": "97440deec811429f22a0dab4fa555b587f06a8fdedbcda4aaa499d6330eb6166",
+      "imageHash": "d59b270774ddad0433e36537ebfcd41b81fa08a102a67f8a33117f9f3e2189b0"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/03_3_3_相線邏輯對應.md",
       "fragment": "^frame=QlNLwsyM",
-      "asset": "content/_reading_assets/d57a154f541579679fc57334.png"
+      "asset": "content/_reading_assets/d57a154f541579679fc57334.png",
+      "fingerprint": "e1c931c6845e7606821bde9c5a4819afd1bd0bed3d105cce6fed7404fcd65bd9",
+      "imageHash": "14e06a070caaa5856db4158eb6d488b62004ef384399ea3684128f198b82c4a1"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/03_4_1_一次測試的四段辨識.md",
       "fragment": "^frame=4e9ce2eb36ea",
-      "asset": "content/_reading_assets/6bb91bc11c5d81d8d63fe6ce.png"
+      "asset": "content/_reading_assets/6bb91bc11c5d81d8d63fe6ce.png",
+      "fingerprint": "7338f1f6551a9facce938bd9bb8d25a001995b58f9ba4f44a9374ce0f0fa6b49",
+      "imageHash": "40382f2a82d9b268c0bdbb5fc383a7778e8d96ffa18a8be26d17e285fb2925f9"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/03_4_2_四段分散程度.md",
       "fragment": "^frame=svoJQUfw",
-      "asset": "content/_reading_assets/e8050e5d9d03a66a5a2e4e64.png"
+      "asset": "content/_reading_assets/e8050e5d9d03a66a5a2e4e64.png",
+      "fingerprint": "763c326c4c7cb182bd05991176e155c24b1d4160e3418aa117ffcbb5616dbd99",
+      "imageHash": "7969ad22ee3ac9453465bd26c418cf85b2b4072e1a9b36af88b4109a14f577e5"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/04_1_1_比例方向與零點.md",
       "fragment": "^frame=363730592bf9",
-      "asset": "content/_reading_assets/92b9adbf2656fad7124f6d93.png"
+      "asset": "content/_reading_assets/92b9adbf2656fad7124f6d93.png",
+      "fingerprint": "e5a71c319f6fb902f954cb0d6a12cd531ef54696d3cd70fff27b9fb36f82d3cc",
+      "imageHash": "90227f1a7f81b7638c38acdf6643f51107e684eaf3c7e118fff5741a96ab3fc2"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/04_1_2_機械角與電氣偏移.md",
       "fragment": "^frame=8e515fb3ccff",
-      "asset": "content/_reading_assets/42f2db4277e4e8038f87bc63.png"
+      "asset": "content/_reading_assets/42f2db4277e4e8038f87bc63.png",
+      "fingerprint": "583834a336c003491f7bc050e78e22822e9e5c512247c0fc5228a09fd8c2e055",
+      "imageHash": "1d192937c7c9c76aea6705c842c08e58d2df7784cf2ccb7b322803a5085b339f"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/04_2_1_固定磁場與停穩.md",
       "fragment": "^frame=oTIMV0Ns",
-      "asset": "content/_reading_assets/1196e830775cd8555e5552be.png"
+      "asset": "content/_reading_assets/1196e830775cd8555e5552be.png",
+      "fingerprint": "cb8d1dda9826bd604980f405783aca20f17261e04c4fce8dbc4eeafc16cb517d",
+      "imageHash": "4629995c7f9c16041b9e23e786d06fdba644e4b2e094a9c91b611aa62f1c4e60"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/04_2_2_偏移扣除與折回.md",
       "fragment": "^frame=rKVoWaJ7",
-      "asset": "content/_reading_assets/0c1d2dbbb4f8232715daaa74.png"
+      "asset": "content/_reading_assets/0c1d2dbbb4f8232715daaa74.png",
+      "fingerprint": "e530082d0aa2cd1126af37e3e2d813ad27c995d23fa58e8b53e7bbad154de6c5",
+      "imageHash": "51adae0fd358bffb6e62eef73029673f3a47a5a2073ac353280dd4e4edbfc9c5"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/04_3_1_固定方向的兩次對齊.md",
       "fragment": "^frame=f5c6505d21e8",
-      "asset": "content/_reading_assets/c0129014b9ca112d05573760.png"
+      "asset": "content/_reading_assets/c0129014b9ca112d05573760.png",
+      "fingerprint": "4813c81cc3313ef36bca72c2e0aa4bfdf58602c84832846b1a07f5ea7347ad4e",
+      "imageHash": "ad0ea66b8dc891b524956b0c1d2b73dad8a0d39fede373c195fd09726f1a395d"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/04_3_2_停穩條件與持續確認.md",
       "fragment": "^frame=hQWddhwX",
-      "asset": "content/_reading_assets/68f99f80110f61e7aeb2aeee.png"
+      "asset": "content/_reading_assets/68f99f80110f61e7aeb2aeee.png",
+      "fingerprint": "5d61411e0c3a43a67a6c7644afd54a16edfc97a7b73744b2b00d59d0c5c90d5c",
+      "imageHash": "0f0e03044bfac1e73202dfa57b809185fac7babb5389fa421675dc0beaaa4f73"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/04_3_3_兩階段對齊與取角時點.md",
       "fragment": "^frame=5LQ4G2eg",
-      "asset": "content/_reading_assets/f9c7e2637ab5e54069b2b897.png"
+      "asset": "content/_reading_assets/f9c7e2637ab5e54069b2b897.png",
+      "fingerprint": "0b1420a5b0d19eff982283ec38742c073fc412173b9d5c44cc84f78a38743bcf",
+      "imageHash": "200dbab9321a27280052449d198a91f024453be2009596536f75bb22cb2b77de"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/04_4_1_校正的位移與結果.md",
       "fragment": "^frame=28a2f5973944",
-      "asset": "content/_reading_assets/b6ebaa72436300df41ea4f99.png"
+      "asset": "content/_reading_assets/b6ebaa72436300df41ea4f99.png",
+      "fingerprint": "5760a3850ce8bb6b99c49de0c300c9dddd679d3b2213d50f90ae394eb1041ff5",
+      "imageHash": "2b14f067f08fa25b26ea32b6c181497d2bd95f66e1d9a89d25a5774cf70bc49f"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/04_4_2_實測角度換算.md",
       "fragment": "^frame=ZChQj47j",
-      "asset": "content/_reading_assets/21823700cfe02c7379e8e867.png"
+      "asset": "content/_reading_assets/21823700cfe02c7379e8e867.png",
+      "fingerprint": "e8f53ca9c4b064147d9feea6dbe2de91618a83795f3666a959e41960e275bddf",
+      "imageHash": "b5ddc49e0c7c3e299bc6d8ae49020a09a93c3424232044367cb70c535eee464f"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/04_4_4_計算套用與斷電保存.md",
       "fragment": "^frame=d1e1c9f9b2cd",
-      "asset": "content/_reading_assets/4574979e7d74d5f35b91b59f.png"
+      "asset": "content/_reading_assets/4574979e7d74d5f35b91b59f.png",
+      "fingerprint": "27f31fe23b49964860211f336b4effc703cbb5925863675a6bb360325bada656",
+      "imageHash": "0451442c683f0ef797e029a93a2b28a97dabc479f4dab6538182bd2336cb9ff8"
     },
     {
       "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/04_5_3_環狀角度差.md",
       "fragment": "^frame=ojseLFJU",
-      "asset": "content/_reading_assets/53795d65b039b38c71723f53.png"
+      "asset": "content/_reading_assets/53795d65b039b38c71723f53.png",
+      "fingerprint": "921295739666a7c977f7a26af8732e2b434e100d1b574033b7c751f46cb4e3da",
+      "imageHash": "7c234f9bd84b181d03fed25829b743676ee2f3cd5e211cf798213831f8759504"
     }
-  ],
-  "convertedEmbeds": 54,
-  "warnings": []
+  ]
 }
