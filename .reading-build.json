@@ -6,8 +6,8 @@
   "cacheVersion": 1,
   "inputFingerprint": "2943be684db47440512ee22383460c73124ef0636928d3576ab429b74d5ffb9c",
   "images": {
-    "reused": 0,
-    "rendered": 54
+    "reused": 54,
+    "rendered": 0
   },
   "targetRepository": "Howellch/obsidian-reading",
   "sourceWorktreeDirty": false,
