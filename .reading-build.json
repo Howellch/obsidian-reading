@@ -1,0 +1,282 @@
+{
+  "owner": "obsidian-github-reading-export/v1",
+  "sourceBranch": "base_v001",
+  "sourceCommit": "d09f1f00cbc1f5e732b1ccd51b92f1ae90f7c0a6",
+  "targetBranch": "read/base_v001",
+  "targetRepository": "Howellch/obsidian-reading",
+  "sourceWorktreeDirty": false,
+  "drawings": [
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/summary/01_整體功能關係.md",
+      "fragment": "^frame=94ca31f8cbad",
+      "asset": "content/_reading_assets/39558bca3a189b25a14b0c41.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/summary/02_相線檢查原理與取樣.md",
+      "fragment": "^frame=aace26d19af3",
+      "asset": "content/_reading_assets/61374611be387e1dffbe7eb6.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/summary/03_相線檢查實測結果.md",
+      "fragment": "^frame=26a30cea900c",
+      "asset": "content/_reading_assets/5c6135e97185b8d77b7be879.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/summary/04_RL量測模型.md",
+      "fragment": "^frame=7ff269421559",
+      "asset": "content/_reading_assets/cd4473f1b87a89fe13a08034.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/summary/05_RL脈衝與時間窗.md",
+      "fragment": "^frame=dbb0a3ca2c1e",
+      "asset": "content/_reading_assets/33bf203388d66ef6b35ec854.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/summary/06_RL結果與驗證限制.md",
+      "fragment": "^frame=3c1fd61ef388",
+      "asset": "content/_reading_assets/3d6b7d5c044447e5366543e8.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/summary/07_極對數相序辨識方式.md",
+      "fragment": "^frame=4c320f8d9d4e",
+      "asset": "content/_reading_assets/442f7fb36e11eb93cacab72f.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/summary/08_四段結果與參數套用.md",
+      "fragment": "^frame=44034ec78c2b",
+      "asset": "content/_reading_assets/42aa8d7dc73fc568f96bb179.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/summary/09_換相偏移角度基準.md",
+      "fragment": "^frame=4c0016c36dfb",
+      "asset": "content/_reading_assets/cc5bcbd37885d5af6e04114e.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/summary/10_固定磁場流程與取角.md",
+      "fragment": "^frame=c0f2ed14d04a",
+      "asset": "content/_reading_assets/281e494d80c430d16f797949.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/summary/11_偏移實測與保存狀態.md",
+      "fragment": "^frame=65a88fd4826e",
+      "asset": "content/_reading_assets/1d278a3b2e4ddcbeb39cb63e.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/01_1_1_導通檢查的範圍.md",
+      "fragment": "^frame=5845040d03b9",
+      "asset": "content/_reading_assets/62b2423ac67688a484f9483a.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/01_2_1_電流回路.md",
+      "fragment": "^frame=MnsXnkys",
+      "asset": "content/_reading_assets/946accb42a0e561b31b8b6f6.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/01_2_2_六條件與相反應.md",
+      "fragment": "^frame=DKK2vzhj",
+      "asset": "content/_reading_assets/fbc1e054db62d6d67ea9babc.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/01_3_1_逐相激勵與電流消退.md",
+      "fragment": "^frame=e89b503d8051",
+      "asset": "content/_reading_assets/04bf9a13eefc0636afe8d696.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/01_3_2_脈衝尾端取樣.md",
+      "fragment": "^frame=xrNkGI28",
+      "asset": "content/_reading_assets/772145d3b36d436984fd31ce.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/01_3_3_雜訊與判定門檻.md",
+      "fragment": "^frame=pbttyNBP",
+      "asset": "content/_reading_assets/32a37cc559036a67d3ad977b.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/01_4_1_正常接線與測試限制.md",
+      "fragment": "^frame=404cd449f477",
+      "asset": "content/_reading_assets/80d97947180f8f3017c25171.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/01_4_2_各相正反向反應.md",
+      "fragment": "^frame=2000fe013959",
+      "asset": "content/_reading_assets/0e9e7559e2c392b611b2d6bb.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/01_4_3_三相正反向電流.md",
+      "fragment": "^frame=7ispWoTq",
+      "asset": "content/_reading_assets/11b0ca9216a49466283e4e41.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/02_1_1_從回路檢查到電氣辨識.md",
+      "fragment": "^frame=df3dc707e6a6",
+      "asset": "content/_reading_assets/68d60c9caefe767fb6102d9d.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/02_2_1_電壓組成與電流斜率.md",
+      "fragment": "^frame=t08kV4wi",
+      "asset": "content/_reading_assets/bd703143c655712d95740548.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/02_2_2_多點估算與殘差.md",
+      "fragment": "^frame=9WsX7i71",
+      "asset": "content/_reading_assets/45dbe490c368d11f12e2569e.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/02_3_1_正零反零測試電壓.md",
+      "fragment": "^frame=7S7XLTAq",
+      "asset": "content/_reading_assets/a3415a301878066aeb8ecaa7.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/02_3_2_差動電壓與電流..md",
+      "fragment": "^frame=C84u67G2",
+      "asset": "content/_reading_assets/738ea39188062addac53948e.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/02_3_3_有效窗口與變化率.md",
+      "fragment": "^frame=KVmZfSu9",
+      "asset": "content/_reading_assets/c6c55bce0b3850ae59d3c14e.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/02_3_5_線間與單相範圍.md",
+      "fragment": "^frame=dSZkwpnD",
+      "asset": "content/_reading_assets/02eb6b3a014c1722387b8385.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/02_4_1_資料時間與比較基準.md",
+      "fragment": "^frame=8190e52f8af6",
+      "asset": "content/_reading_assets/5f63d13cfbea000c84e6e6ca.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/02_4_2_R_比較.md",
+      "fragment": "^frame=sebzfd7o",
+      "asset": "content/_reading_assets/3dfc20a02e2c2dfeaa5651d0.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/02_4_3_L_比較.md",
+      "fragment": "^frame=Ols0lYNA",
+      "asset": "content/_reading_assets/014068a9b3e36ab56222fbae.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/02_4_4_正負電流等效偏移.md",
+      "fragment": "^frame=jzXrC5SL",
+      "asset": "content/_reading_assets/1f2278ecc88c1496a54ede18.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/02_4_5_小電流跨度與電阻敏感度.md",
+      "fragment": "^frame=qFsBNYdn",
+      "asset": "content/_reading_assets/550a549d0202dc105da3c48a.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/02_5_2_先驗證R再估.md",
+      "fragment": "^frame=gFl2bnqT",
+      "asset": "content/_reading_assets/115fbf2b87c505e9dff4d1fa.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/03_1_1_三相與五極對.md",
+      "fragment": "^frame=7c4e77e6c11e",
+      "asset": "content/_reading_assets/b7dd013bc21f1b6d9ef24ecc.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/03_2_1_旋轉磁場與角度跟隨.md",
+      "fragment": "^frame=e5a1be94569d",
+      "asset": "content/_reading_assets/9b3ff2c8a00f35f516bf1b66.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/03_2_2_極對數與斜率.md",
+      "fragment": "^frame=9M9fP2Az",
+      "asset": "content/_reading_assets/2695ef55c8a7cdaadecd212a.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/03_2_3_同向反向與斜率.md",
+      "fragment": "^frame=PxbmqiaY",
+      "asset": "content/_reading_assets/f279b87fae62fb1fd099d0b5.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/03_3_1_四段旋轉測試.md",
+      "fragment": "^frame=KvZqMQ2i",
+      "asset": "content/_reading_assets/5b3a6c35e67f14b2b9695d50.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/03_3_2_跨圈展開與局部跟隨.md",
+      "fragment": "^frame=CljLQaPN",
+      "asset": "content/_reading_assets/3200cb71fc31c88ac4ff2497.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/03_3_3_週期波動與品質檢查.md",
+      "fragment": "^frame=4a1a4ea20c60",
+      "asset": "content/_reading_assets/60bcfaad0f6e70524ddbadfa.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/03_3_3_相線邏輯對應.md",
+      "fragment": "^frame=QlNLwsyM",
+      "asset": "content/_reading_assets/d57a154f541579679fc57334.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/03_4_1_一次測試的四段辨識.md",
+      "fragment": "^frame=4e9ce2eb36ea",
+      "asset": "content/_reading_assets/6bb91bc11c5d81d8d63fe6ce.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/03_4_2_四段分散程度.md",
+      "fragment": "^frame=svoJQUfw",
+      "asset": "content/_reading_assets/e8050e5d9d03a66a5a2e4e64.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/04_1_1_比例方向與零點.md",
+      "fragment": "^frame=363730592bf9",
+      "asset": "content/_reading_assets/92b9adbf2656fad7124f6d93.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/04_1_2_機械角與電氣偏移.md",
+      "fragment": "^frame=8e515fb3ccff",
+      "asset": "content/_reading_assets/42f2db4277e4e8038f87bc63.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/04_2_1_固定磁場與停穩.md",
+      "fragment": "^frame=oTIMV0Ns",
+      "asset": "content/_reading_assets/1196e830775cd8555e5552be.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/04_2_2_偏移扣除與折回.md",
+      "fragment": "^frame=rKVoWaJ7",
+      "asset": "content/_reading_assets/0c1d2dbbb4f8232715daaa74.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/04_3_1_固定方向的兩次對齊.md",
+      "fragment": "^frame=f5c6505d21e8",
+      "asset": "content/_reading_assets/c0129014b9ca112d05573760.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/04_3_2_停穩條件與持續確認.md",
+      "fragment": "^frame=hQWddhwX",
+      "asset": "content/_reading_assets/68f99f80110f61e7aeb2aeee.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/04_3_3_兩階段對齊與取角時點.md",
+      "fragment": "^frame=5LQ4G2eg",
+      "asset": "content/_reading_assets/f9c7e2637ab5e54069b2b897.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/04_4_1_校正的位移與結果.md",
+      "fragment": "^frame=28a2f5973944",
+      "asset": "content/_reading_assets/b6ebaa72436300df41ea4f99.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/04_4_2_實測角度換算.md",
+      "fragment": "^frame=ZChQj47j",
+      "asset": "content/_reading_assets/21823700cfe02c7379e8e867.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/04_4_4_計算套用與斷電保存.md",
+      "fragment": "^frame=d1e1c9f9b2cd",
+      "asset": "content/_reading_assets/4574979e7d74d5f35b91b59f.png"
+    },
+    {
+      "source": "content/3 - EVK/Commutation_Offset_Detection/drawing/04_5_3_環狀角度差.md",
+      "fragment": "^frame=ojseLFJU",
+      "asset": "content/_reading_assets/53795d65b039b38c71723f53.png"
+    }
+  ],
+  "convertedEmbeds": 54,
+  "warnings": []
+}
