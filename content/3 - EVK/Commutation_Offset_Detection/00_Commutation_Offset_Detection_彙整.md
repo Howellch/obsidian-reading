@@ -8,7 +8,7 @@ slides: 11
 tags: [Renesas-EVK, motor-commissioning, presentation]
 ---
 
-本報告以 Renesas EVK 與 Tamagawa TSM3101N2001E020 馬達的既有文件為依據，整理為五章、11 頁投影片內容。每頁固定提供投影片標題、含背景與目的的左側樹狀清單，以及右側彙總技術圖。可編輯的 Excalidraw 圖檔集中於 `drawing/summary`。
+此處以 Renesas EVK 與 Tamagawa TSM3101N2001E020 馬達的既有文件為依據，整理為五章、11 頁投影片內容。每頁固定提供投影片標題、含背景與目的的左側樹狀清單，以及右側彙總技術圖。可編輯的 Excalidraw 圖檔集中於 `drawing/summary`。
 
 # 1. 整體功能關係
 
