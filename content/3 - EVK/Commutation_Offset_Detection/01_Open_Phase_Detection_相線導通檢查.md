@@ -102,7 +102,7 @@ $$
 I_{\mathrm{threshold}}=\max(0.015\ \mathrm{A},\ 3\sigma_{\mathrm{noise}})
 $$
 
-$\sigma_{\mathrm{noise}}$ 是三相零點雜訊標準差中的最大值。標準差可理解為讀值平常波動的大小。最低門檻為 15 mA，雜訊較大時便提高門檻，避免把波動當成導通。
+$`\sigma_{\mathrm{noise}}`$ 是三相零點雜訊標準差中的最大值。標準差可理解為讀值平常波動的大小。最低門檻為 15 mA，雜訊較大時便提高門檻，避免把波動當成導通。
 
 <img src="../../_reading_assets/b9dfa4f3e5ac688707eaafbd.png" alt="01_3_3_雜訊與判定門檻" width="800">
 

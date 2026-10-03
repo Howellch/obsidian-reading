@@ -1,13 +1,13 @@
 {
   "owner": "obsidian-github-reading-export/v1",
   "sourceBranch": "base_v001",
-  "sourceCommit": "61af7eb1c906580a43a80853431ed349be1cc1f7",
+  "sourceCommit": "8639d21fd4ac64a22735a5fc8fc70a3a6a650e9d",
   "targetBranch": "read/base_v001",
   "cacheVersion": 1,
-  "inputFingerprint": "28b7c8d40db37100336ff9dddf4a3a0869731a536f8cb7b57251d9a27ab12dcd",
+  "inputFingerprint": "bb54fae66b26a3875747cb380cec35a8c4605d1eb7bf2e468af9f74f966f640c",
   "images": {
-    "reused": 0,
-    "rendered": 56
+    "reused": 56,
+    "rendered": 0
   },
   "targetRepository": "Howellch/obsidian-reading",
   "sourceWorktreeDirty": false,
